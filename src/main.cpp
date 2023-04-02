@@ -54,5 +54,6 @@ void loop() {
     delayMicroseconds(20);
     closer();
   }
-    /// xinh chào các bạn
+    /// xinh chào các bạns
+    ///xin chào các bạn
 } 
